@@ -12,7 +12,9 @@ namespace Snake
         {
             Console.WriteLine("Hello, world");
             Console.WriteLine("Max");
+            Console.WriteLine("Hi");
             Console.ReadLine();
+
         }
     }
 }
