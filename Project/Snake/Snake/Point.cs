@@ -16,11 +16,11 @@ namespace Snake
         {
         }
 
-        public Point(int x, int y, char sym)
+        public Point(int _x, int _y, char _sym)
         {
-            /*x = _x;
+            x = _x;
             y = _y;
-            sym = _sym;*/
+            sym = _sym;
         }
 
         public void Draw()
